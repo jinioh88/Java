@@ -70,12 +70,14 @@ class ResourceQueue {
 	public synchronized Object pop() throws InterruptedException {
 		Object o = null;
 		if(!jobs.isEmpty())
-			o = jobs.removeFirst();
+			this.wait();  // pop 없으면 스레드 일안하게
+		o = jobs.removeFirst();
 		
 		return o;
 	}
 	
 	public synchronized void put(Object o) {
 		jobs.addLast(o);
+		this.notify();
 	}
 }
