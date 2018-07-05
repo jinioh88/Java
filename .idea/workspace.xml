@@ -2,8 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fed68892-fa9c-4053-a879-e41388b2d909" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP2/DrawShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/TvTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP/TvTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Generics/read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Generics/read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/TCPIpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/TCPIpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/TCPIpClient3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/TCPIpClient3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/TCPIpServer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/TCPIpServer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/TCPIpServer3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/TCPIpServer3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/TcpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/TcpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/TcpIpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/TcpIpServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/TcpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/TcpServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/read.md" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/read.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/OOP/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/OOP/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/MemberCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/OOP/MemberCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/MyMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/OOP/MyMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/TvTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/OOP/TvTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Networking/Receiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Networking/Sender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TCPIpClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TCPIpClient3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TCPIpServer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TCPIpServer3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TcpClient$ClientReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TcpClient$ClientSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TcpClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TcpIpServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TcpServer$ServerReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TcpServer.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,103 +61,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TcpServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TcpServer.java">
+      <file leaf-file-name="DrawShape.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OOP2/DrawShape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            <state relative-caret-position="107">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1292#1293#0" expanded="true" />
-                <element signature="e#1331#1332#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="read.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Generics/read.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TvTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/OOP/TvTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/OOP/Card.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyMath.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/OOP/MyMath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-              <folding>
-                <element signature="e#218#219#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MemberCall.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/OOP/MemberCall.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/OOP/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-              <folding>
-                <element signature="e#227#228#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tv.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/OOP2/Tv.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TcpClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TcpClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TCPIpClient3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TCPIpClient3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -162,12 +112,13 @@
         <option value="$PROJECT_DIR$/src/main/java/Networking/TcpServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Networking/TcpClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/Generics/read.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/OOP/TvTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/OOP/Card.java" />
         <option value="$PROJECT_DIR$/src/main/java/OOP/MyMath.java" />
         <option value="$PROJECT_DIR$/src/main/java/OOP/MemberCall.java" />
         <option value="$PROJECT_DIR$/src/main/java/OOP/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/OOP2/Tv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOP/TvTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOP2/DrawShape.java" />
       </list>
     </option>
   </component>
@@ -228,7 +179,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,6 +202,9 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Networking" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch06" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -264,34 +218,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TcpServer">
+  <component name="RunManager" selected="Application.DrawShape">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="TCPIpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Networking.TCPIpClient" />
+    <configuration name="CaptionTvTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP2.CaptionTvTest" />
       <module name="JavaStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Networking.*" />
+          <option name="PATTERN" value="OOP2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DrawShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP2.DrawShape" />
+      <module name="JavaStudy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="TCPIpClient3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Networking.TCPIpClient3" />
-      <module name="JavaStudy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Networking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TCPIpServer3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Networking.TCPIpServer3" />
       <module name="JavaStudy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -378,19 +332,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.TCPIpClient" />
-      <item itemvalue="Application.TCPIpServer3" />
       <item itemvalue="Application.TCPIpClient3" />
       <item itemvalue="Application.TcpServer" />
       <item itemvalue="Application.TcpClient" />
+      <item itemvalue="Application.CaptionTvTest" />
+      <item itemvalue="Application.DrawShape" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DrawShape" />
+        <item itemvalue="Application.CaptionTvTest" />
         <item itemvalue="Application.TcpServer" />
         <item itemvalue="Application.TCPIpClient3" />
         <item itemvalue="Application.TcpClient" />
-        <item itemvalue="Application.TCPIpServer3" />
-        <item itemvalue="Application.TCPIpClient" />
       </list>
     </recent_temporary>
   </component>
@@ -407,19 +361,19 @@
       <workItem from="1522763191460" duration="817000" />
       <workItem from="1522922984405" duration="372000" />
       <workItem from="1530669478763" duration="3320000" />
-      <workItem from="1530762998921" duration="216000" />
+      <workItem from="1530762998921" duration="1550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4725000" />
+    <option name="totallyTimeSpent" value="6059000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32636657" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -427,7 +381,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" weight="0.3425129" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.34244373" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297491" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -442,7 +396,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="3" side_tool="true" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32702237" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -456,7 +409,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TcpServer.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TcpServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
@@ -468,28 +421,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Generics/read.txt">
+    <entry file="file://$PROJECT_DIR$/ch06/Generics/read.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OOP/TvTest.java">
+    <entry file="file://$PROJECT_DIR$/ch06/OOP/TvTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OOP/Card.java">
+    <entry file="file://$PROJECT_DIR$/ch06/OOP/Card.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OOP/MyMath.java">
+    <entry file="file://$PROJECT_DIR$/ch06/OOP/MyMath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
@@ -499,28 +452,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OOP/MemberCall.java">
+    <entry file="file://$PROJECT_DIR$/ch06/OOP/MemberCall.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TcpClient.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TcpClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TCPIpClient3.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TCPIpClient3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OOP/Car.java">
+    <entry file="file://$PROJECT_DIR$/ch06/OOP/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
@@ -530,7 +483,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TcpServer.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TcpServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
@@ -542,28 +495,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TcpClient.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TcpClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TCPIpClient3.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TCPIpClient3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Generics/read.txt">
+    <entry file="file://$PROJECT_DIR$/ch06/Generics/read.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TcpServer.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TcpServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
@@ -575,28 +528,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TcpClient.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TcpClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TCPIpClient3.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TCPIpClient3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Generics/read.txt">
+    <entry file="file://$PROJECT_DIR$/ch06/Generics/read.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TcpServer.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TcpServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
@@ -608,14 +561,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TcpClient.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TcpClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TCPIpClient3.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TCPIpClient3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
@@ -629,56 +582,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/read.md">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/read.md">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TCPIpServer2.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TCPIpServer2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TCPIpClient.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TCPIpClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TcpIpServer.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TcpIpServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
           <caret line="37" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TCPIpServer3.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TCPIpServer3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="46" column="72" selection-start-line="46" selection-start-column="72" selection-end-line="46" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TcpClient.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TcpClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TCPIpClient3.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TCPIpClient3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Networking/TcpServer.java">
+    <entry file="file://$PROJECT_DIR$/ch06/Networking/TcpServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
@@ -691,28 +644,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ObjectOrieted.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Generics/read.txt">
+    <entry file="file://$PROJECT_DIR$/ch06/Generics/read.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OOP/TvTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OOP/Card.java">
+    <entry file="file://$PROJECT_DIR$/ch06/OOP/Card.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OOP/MyMath.java">
+    <entry file="file://$PROJECT_DIR$/ch06/OOP/MyMath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
@@ -722,14 +668,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OOP/MemberCall.java">
+    <entry file="file://$PROJECT_DIR$/ch06/OOP/MemberCall.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OOP/Car.java">
+    <entry file="file://$PROJECT_DIR$/ch06/OOP/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
@@ -739,10 +685,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ch06/OOP/TvTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/OOP2/Tv.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        <state relative-caret-position="300">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOP2/DrawShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
