@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fed68892-fa9c-4053-a879-e41388b2d909" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP2/DrawShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP2/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Generics/read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Generics/read.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/TCPIpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/TCPIpClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/TCPIpClient3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/TCPIpClient3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/TCPIpServer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/TCPIpServer2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/TCPIpServer3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/TCPIpServer3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/TcpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/TcpClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/TcpIpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/TcpIpServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/TcpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/TcpServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Networking/read.md" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Networking/read.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/OOP/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/OOP/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/MemberCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/OOP/MemberCall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/MyMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/OOP/MyMath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/TvTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/OOP/TvTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Networking/Receiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Networking/Sender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TCPIpClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TCPIpClient3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TCPIpServer2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TCPIpServer3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TcpClient$ClientReceiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TcpClient$ClientSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TcpClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TcpIpServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TcpServer$ServerReceiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Networking/TcpServer.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -61,7 +35,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DrawShape.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DrawShape.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/OOP2/DrawShape.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="107">
@@ -82,6 +56,15 @@
                 <element signature="e#324#325#0" expanded="true" />
                 <element signature="e#348#349#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OOP2/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -119,6 +102,7 @@
         <option value="$PROJECT_DIR$/src/main/java/OOP2/Tv.java" />
         <option value="$PROJECT_DIR$/src/main/java/OOP/TvTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/OOP2/DrawShape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOP2/Singleton.java" />
       </list>
     </option>
   </component>
@@ -361,15 +345,16 @@
       <workItem from="1522763191460" duration="817000" />
       <workItem from="1522922984405" duration="372000" />
       <workItem from="1530669478763" duration="3320000" />
-      <workItem from="1530762998921" duration="1550000" />
+      <workItem from="1530762998921" duration="2117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6059000" />
+    <option name="totallyTimeSpent" value="6626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -719,6 +704,13 @@
             <element signature="e#324#325#0" expanded="true" />
             <element signature="e#348#349#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOP2/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
