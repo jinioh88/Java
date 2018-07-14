@@ -22,14 +22,3 @@ public class StorageImpl<T> implements Storage<T> {
     }
 }
 
-public static void printAll(ArrayList<? extends Product> list, ArrayList<? extends Product> list2) {
-    for(Unit u : list) {
-        System.out.println(u);
-    }
-}
-
-public static <T extends Product> void printAll(ArrayList<T> list,ArrayList<T> list2) {
-    for(Unit u : list) {
-        System.out.println(u);
-    }
-}

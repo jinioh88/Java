@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fed68892-fa9c-4053-a879-e41388b2d909" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/generics/StorageImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics/StorageImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -69,8 +68,8 @@
       <file leaf-file-name="StorageImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/generics/StorageImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="24" selection-start-line="24" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#137#138#0" expanded="true" />
@@ -418,12 +417,12 @@
       <workItem from="1530923389821" duration="5893000" />
       <workItem from="1530960604489" duration="699000" />
       <workItem from="1531045294356" duration="2921000" />
-      <workItem from="1531553260243" duration="4229000" />
+      <workItem from="1531553260243" duration="4554000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29678000" />
+    <option name="totallyTimeSpent" value="30003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="0" />
@@ -439,7 +438,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.34244373" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" weight="0.34244373" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297491" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -838,8 +837,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/StorageImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="24" selection-start-line="24" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#137#138#0" expanded="true" />
