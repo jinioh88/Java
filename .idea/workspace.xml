@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fed68892-fa9c-4053-a879-e41388b2d909" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/ChildProuct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/WildCardEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics/StorageImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics/StorageImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,11 +57,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Storage.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Storage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/generics/Storage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StorageImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generics/StorageImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="24" selection-start-line="24" selection-end-line="34" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,8 +89,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -99,8 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Networking/TcpIpServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Networking/TCPIpServer2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Networking/TCPIpClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/Networking/TCPIpClient3.java" />
         <option value="$PROJECT_DIR$/src/main/java/Networking/TCPIpServer3.java" />
@@ -150,6 +160,8 @@
         <option value="$PROJECT_DIR$/src/main/java/generics/WildCardEx.java" />
         <option value="$PROJECT_DIR$/src/main/java/generics/ChildProuct.java" />
         <option value="$PROJECT_DIR$/src/main/java/generics/Storage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/FruitBoxEx1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/StorageImpl.java" />
       </list>
     </option>
   </component>
@@ -406,12 +418,12 @@
       <workItem from="1530923389821" duration="5893000" />
       <workItem from="1530960604489" duration="699000" />
       <workItem from="1531045294356" duration="2921000" />
-      <workItem from="1531553260243" duration="3028000" />
+      <workItem from="1531553260243" duration="4229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28477000" />
+    <option name="totallyTimeSpent" value="29678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="0" />
@@ -455,14 +467,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch06/Networking/TcpServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ObjectOrieted.java" />
     <entry file="file://$PROJECT_DIR$/ch06/Generics/read.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -822,6 +826,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/FruitBoxEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/StorageImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="24" selection-start-line="24" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
