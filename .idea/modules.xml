@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anonymous/Anonymous.iml" filepath="$PROJECT_DIR$/Anonymous/Anonymous.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extend/Extend.iml" filepath="$PROJECT_DIR$/Extend/Extend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrameWork/FrameWork.iml" filepath="$PROJECT_DIR$/FrameWork/FrameWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ramda/Ramda.iml" filepath="$PROJECT_DIR$/Ramda/Ramda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03/ch03.iml" filepath="$PROJECT_DIR$/ch03/ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git.iml" filepath="$PROJECT_DIR$/git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrameWork/test/test.iml" filepath="$PROJECT_DIR$/FrameWork/test/test.iml" />
     </modules>
   </component>
 </project>
