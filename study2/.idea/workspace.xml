@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5690f438-8be1-48c0-ad01-b7d3ea750f5e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.recommenders/caches/identified-project-coordinates.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.recommenders/caches/manual-mappings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/JavaStudy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/src/main/java/Networking/Receiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/src/main/java/Networking/Sender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/src/main/java/Networking/TCPIpClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/src/main/java/Networking/TCPIpClient3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/src/main/java/Networking/TCPIpServer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/src/main/java/Networking/TCPIpServer3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/src/main/java/Networking/TcpClient$ClientReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/src/main/java/Networking/TcpClient$ClientSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/src/main/java/Networking/TcpClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/src/main/java/Networking/TcpIpServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/src/main/java/Networking/TcpServer$ServerReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/src/main/java/Networking/TcpServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/src/main/java/Networking/read.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/array/readMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/operator/ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/operator/readMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/repeatation/ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/repeatation/ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/repeatation/readMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/Collection/HashMap3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/Collection/HashMapEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/Collection/HashSetLotto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/Collection/ListIteratorEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/Collection/MyStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/Collection/MyVector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/Collection/MyVector2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/Collection/StackQueu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/Enum/Enum1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/IO/FileCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/IO/FileEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/IO/FileViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/IO/SerialEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/IO/SerialEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/IO/UserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/OOP2/BindingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/OOP2/CastingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/OOP2/DefaultMethodTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/OOP2/DrawShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/OOP2/IVCR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/OOP2/InnerEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/OOP2/InnerEx3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/OOP2/InterfaceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/OOP2/PolyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/OOP2/RepairableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/OOP2/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/OOP2/TVCR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/OOP2/Tv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/OOP2/VCR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/generics/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/generics/BoxExam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/generics/ChildProuct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/generics/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/generics/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/generics/Storage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/generics/StorageImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/generics/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/generics/Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/study/generics/WildCardEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/variable/ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/variable/readMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readMe.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="readMe.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/readMe.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="326">
+                <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arrayEx.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/arrayEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="47" selection-start-line="8" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/he.java" />
+        <option value="$PROJECT_DIR$/src/ex1.java" />
+        <option value="$PROJECT_DIR$/src/arrayEx.java" />
+        <option value="$PROJECT_DIR$/src/readMe.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="stdy2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stdy2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.arrayEx">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="arrayEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayEx" />
+      <module name="study2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex1" />
+      <module name="study2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="he" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="he" />
+      <module name="study2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.he" />
+      <item itemvalue="Application.ex1" />
+      <item itemvalue="Application.arrayEx" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.arrayEx" />
+        <item itemvalue="Application.ex1" />
+        <item itemvalue="Application.he" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5690f438-8be1-48c0-ad01-b7d3ea750f5e" name="Default" comment="" />
+      <created>1532159864392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532159864392</updated>
+      <workItem from="1532159867452" duration="207000" />
+      <workItem from="1532167669808" duration="2086000" />
+      <workItem from="1532169791923" duration="626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2919000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32874355" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/readMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="475">
+            <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="47" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/he.java" />
+    <entry file="file://$PROJECT_DIR$/src/ex1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="47" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="326">
+            <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
