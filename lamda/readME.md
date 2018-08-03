@@ -36,5 +36,8 @@
     - 함수적 인터페이스 작성 시 @FuntionalInterface를 붙여 두 개 이상의 추상 메서드가 선언되지 않도록 체킹한다.
   - 매개 변수와 리턴 값이 없는 람다식
     - MyFunctionlInterface.java / MyFunctionalInterfaceExam.java
+  - 매개변수 있는 람다식
+    - MyFunctionalInterface2.java
+    - MyFunctionalInterfaceExam2.java
   
     
