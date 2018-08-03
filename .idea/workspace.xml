@@ -2,90 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b40cadef-cfc2-46df-9b33-dd5254b57e54" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.recommenders/caches/identified-project-coordinates.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.recommenders/caches/manual-mappings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/JavaStudy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Networking/Receiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Networking/Sender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Networking/TCPIpClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Networking/TCPIpClient3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Networking/TCPIpServer2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Networking/TCPIpServer3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Networking/TcpClient$ClientReceiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Networking/TcpClient$ClientSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Networking/TcpClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Networking/TcpIpServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Networking/TcpServer$ServerReceiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Networking/TcpServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/main/java/Networking/read.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/readMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/operator/ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/operator/readMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repeatation/ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repeatation/ex2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repeatation/readMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/Collection/HashMap3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/Collection/HashMapEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/Collection/HashSetLotto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/Collection/ListIteratorEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/Collection/MyStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/Collection/MyVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/Collection/MyVector2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/Collection/StackQueu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/Enum/Enum1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/IO/FileCopy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/IO/FileEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/IO/FileViewer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/IO/SerialEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/IO/SerialEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/IO/UserInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/OOP2/BindingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/OOP2/CastingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/OOP2/DefaultMethodTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/OOP2/DrawShape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/OOP2/IVCR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/OOP2/InnerEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/OOP2/InnerEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/OOP2/InterfaceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/OOP2/PolyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/OOP2/RepairableTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/OOP2/Singleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/OOP2/TVCR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/OOP2/Tv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/OOP2/VCR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/generics/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/generics/BoxExam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/generics/ChildProuct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/generics/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/generics/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/generics/Storage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/generics/StorageImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/generics/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/generics/Util.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/generics/WildCardEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/variable/ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/variable/readMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaStudy.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -97,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -152,18 +69,19 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="1890" />
-    <option name="height" value="930" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="719" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -176,7 +94,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,71 +204,72 @@
       <workItem from="1532153028771" duration="6170000" />
       <workItem from="1532159238660" duration="282000" />
       <workItem from="1532159655318" duration="210000" />
+      <workItem from="1533260746222" duration="89000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6662000" />
+    <option name="totallyTimeSpent" value="6751000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="719" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32874355" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32943013" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32874355" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24980484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2092084" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32874355" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32874355" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32874355" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32874355" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32874355" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32874355" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32874355" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32943013" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
@@ -363,30 +281,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatation/ex2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/readMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="513">
-            <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ex1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatation/ex2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/array/readMe.md" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex1.java" />
     <entry file="file://$PROJECT_DIR$/FrameWork/test/junit/TestDateUtil2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -401,106 +298,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatation/ex2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/readMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="513">
-            <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ex1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/variable/readMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="491">
-            <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/variable/ex1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/operator/ex1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatation/ex1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatation/readMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="491">
-            <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/operator/readMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatation/ex2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/readMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="513">
-            <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatation/ex2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/array/readMe.md" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/variable/readMe.md" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/variable/ex1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/operator/ex1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatation/ex1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatation/readMe.md" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/operator/readMe.md" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatation/ex2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/array/readMe.md" />
     <entry file="file://$PROJECT_DIR$/src/main/java/heo.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ex1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ex1.java" />
     <entry file="file://$PROJECT_DIR$/FrameWork/test/junit/TestDateUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -515,16 +325,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/he.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding>
-            <element signature="e#61#62#0" expanded="true" />
-            <element signature="e#101#102#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/he.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
