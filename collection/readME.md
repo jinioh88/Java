@@ -59,3 +59,10 @@
   - 프로퍼티 파일을 읽기 위해선 Properties를 생성하고, load()를 호출하면 된다. laod()는 FileReader 객체를 매개로 받는다. 
   - getResource()는 주어진 파일의 상대 경로를 URL 객체로 리턴한다. 
   - URL의 getPath()는 파일의 상대 경로를 리턴한다. 
+  
+## 동기화된 컬렉션
+  - Vector, Hashtable은 동기화된 메서드로 구성되 있어 멀티 스레드 환경에 안전하다. 
+  - 싱글스레드에서 동작하는 ArrayList, HashSet, HashMap등을 멀티스레더에서 사용하려면 동기화된 메서드로 래핑하는 synchronizedXXX() 메서드를 사용.
+  - List<T> --> synchronizedList<List<T> list>
+  - Map<K,V> --> synchronizedMap(Map<K,V>)
+  - Set<T> --> synchronizedSet(Set<t> s)
