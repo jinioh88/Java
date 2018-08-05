@@ -52,4 +52,10 @@
   - 멀티 스레드에서 안전하게 객체를 추가,삭제 할 수 있다. 
   
 ## Properties
-  - 
+  - Hashtable의 하위 클래스다. 
+  - Hashtable과 차이점은 Properties는 키와 값을 String 타입으로 제한한 컬렉션이다. 
+  - 애플리케이션 옵션 정보,  DB연결 정보, 각정 프로퍼티 파일을 읽을 떄 주로 사용한다.
+  - 키와 값이 '='로 연결되 있는 텍스트 파일이다. 
+  - 프로퍼티 파일을 읽기 위해선 Properties를 생성하고, load()를 호출하면 된다. laod()는 FileReader 객체를 매개로 받는다. 
+  - getResource()는 주어진 파일의 상대 경로를 URL 객체로 리턴한다. 
+  - URL의 getPath()는 파일의 상대 경로를 리턴한다. 
