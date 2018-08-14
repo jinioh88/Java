@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3de5395b-5c63-46b7-ae79-3df4b346d9ef" name="Default" comment="" />
+    <list default="true" id="0b94aba1-5a27-4dc8-bced-48ef7d9002e7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,63 +16,39 @@
         <entry file="file://$PROJECT_DIR$/readME.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="300">
-                <caret line="131" column="16" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
+              <first_editor relative-caret-position="516">
+                <caret line="101" column="8" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Invoice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch02/Invoice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
-              <folding>
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Emplyee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch02/Emplyee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../../ebay/myshop" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../mvc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/blog-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/demochat-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/myshop" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/saltfactory-java-tutorial-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/simpleboard" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/spring-session-2.0.3.RELEASE" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/spring_upload" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/ucamu" value="PREVIEW" />
+        <entry key="$USER_HOME$/TobySpringStudy" value="PREVIEW" />
+        <entry key="$USER_HOME$/fastcampus/simpleboard" value="PREVIEW" />
+        <entry key="$USER_HOME$/saltfactory-java-tutorial" value="PREVIEW" />
+        <entry key="$USER_HOME$/saltfactory-java-tutorial/SpringBootDemo" value="PREVIEW" />
+        <entry key="$USER_HOME$/stickershop" value="PREVIEW" />
+        <entry key="$USER_HOME$/toktalk" value="PREVIEW" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ch01/prac01.java" />
-        <option value="$PROJECT_DIR$/src/ch01/prac2.java" />
-        <option value="$PROJECT_DIR$/src/ch01/prac3.java" />
-        <option value="$PROJECT_DIR$/src/ch02/Emplyee.java" />
-        <option value="$PROJECT_DIR$/src/ch02/Invoice.java" />
         <option value="$PROJECT_DIR$/readME.md" />
       </list>
     </option>
@@ -87,16 +63,15 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="width" value="1890" />
-    <option name="height" value="1107" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="719" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,22 +84,11 @@
               <item name="CaySHostman" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CaySHostman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CaySHostman" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CaySHostman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CaySHostman" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch02" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -134,7 +98,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="spring.boot" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -148,31 +112,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.prac2">
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="prac01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch01.prac01" />
-      <module name="CaySHostman" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="prac2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch01.prac2" />
-      <module name="CaySHostman" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -212,60 +154,49 @@
       <properties />
       <listeners />
     </configuration>
-    <list>
-      <item itemvalue="Application.prac01" />
-      <item itemvalue="Application.prac2" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.prac2" />
-        <item itemvalue="Application.prac01" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3de5395b-5c63-46b7-ae79-3df4b346d9ef" name="Default" comment="" />
-      <created>1534124449101</created>
+      <changelist id="0b94aba1-5a27-4dc8-bced-48ef7d9002e7" name="Default" comment="" />
+      <created>1534210160864</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1534124449101</updated>
-      <workItem from="1534124453246" duration="15324000" />
+      <updated>1534210160864</updated>
+      <workItem from="1534210162500" duration="4364000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15324000" />
+    <option name="totallyTimeSpent" value="4364000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="724" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298969" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -281,55 +212,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ch01/prac01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch01/prac3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch01/prac2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch02/Emplyee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch02/Invoice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
-          <folding>
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/readME.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="300">
-            <caret line="131" column="16" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
+          <first_editor relative-caret-position="516">
+            <caret line="101" column="8" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
