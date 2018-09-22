@@ -10,5 +10,8 @@ public class Lambda1 {
             System.out.println(s);
 
         list.forEach(s-> System.out.println(s));
+
+        String str1 = String.join(", ","Java","Recipe" ,"is", "great");
+        System.out.println(str1);
     }
 }
