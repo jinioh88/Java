@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd987ee1-d49a-4fdc-a57f-373060f6bae8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternIntro/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternIntro/DuckMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternIntro/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternIntro/FlyRocketPowered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternIntro/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternIntro/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternIntro/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternIntro/ToyDuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../예제가 가득한java.md" beforeDir="false" afterPath="$PROJECT_DIR$/../예제가 가득한java.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,22 +35,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3159" />
+          <entry key="java" value="3746" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3159" />
+          <entry key="JAVA" value="3746" />
         </counts>
       </usages-collector>
     </session>
@@ -48,28 +58,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ex01.java">
+        <entry file="file://$PROJECT_DIR$/src/patternIntro/Duck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#53#54#0" expanded="true" />
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/patternIntro/FlyNoWay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/patternIntro/FlyWithWings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/patternIntro/DuckMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/patternIntro/MallardDuck.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="80" lean-forward="true" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
+              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#67#68#0" expanded="true" />
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#99#100#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/com/sun/org/apache/bcel/internal/util/ClassLoader.java">
+        <entry file="file://$PROJECT_DIR$/src/patternIntro/FlyRocketPowered.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1539">
-              <caret line="87" column="46" selection-start-line="87" selection-start-column="46" selection-end-line="87" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ClassLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2280">
-              <caret line="177" column="22" selection-start-line="177" selection-start-column="22" selection-end-line="177" selection-end-column="22" />
+            <state relative-caret-position="95">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+              <folding>
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,6 +137,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -101,6 +160,16 @@
         <option value="$PROJECT_DIR$/src/EnumEx.java" />
         <option value="$PROJECT_DIR$/src/SteramEx1.java" />
         <option value="$PROJECT_DIR$/src/Ex01.java" />
+        <option value="$PROJECT_DIR$/src/Flyable.java" />
+        <option value="$PROJECT_DIR$/src/FlyWithWings.java" />
+        <option value="$PROJECT_DIR$/src/FlyNoWay.java" />
+        <option value="$PROJECT_DIR$/src/MallardDuck.java" />
+        <option value="$PROJECT_DIR$/src/ToyDuck.java" />
+        <option value="$PROJECT_DIR$/src/Duck.java" />
+        <option value="$PROJECT_DIR$/src/patternIntro/ToyDuck.java" />
+        <option value="$PROJECT_DIR$/src/patternIntro/Duck.java" />
+        <option value="$PROJECT_DIR$/src/patternIntro/FlyRocketPowered.java" />
+        <option value="$PROJECT_DIR$/src/patternIntro/DuckMain.java" />
       </list>
     </option>
   </component>
@@ -133,6 +202,12 @@
               <item name="JavaExPrac" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaExPrac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExPrac" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="patternIntro" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -145,11 +220,16 @@
     <property name="SearchEverywhereHistoryKey" value="classloader&#9;PSI&#9;JAVA://com.sun.org.apache.bcel.internal.util.ClassLoader" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537687475992" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537690448208" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,7 +243,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex01">
+  <component name="RunManager" selected="Application.DuckMain">
+    <configuration name="DuckMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternIntro.DuckMain" />
+      <module name="JavaExPrac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patternIntro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EnumEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EnumEx" />
       <module name="JavaExPrac" />
@@ -185,13 +278,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringEx" />
-      <module name="JavaExPrac" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringEx2" />
       <module name="JavaExPrac" />
@@ -200,19 +286,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringEx" />
       <item itemvalue="Application.StringEx2" />
       <item itemvalue="Application.EnumEx" />
       <item itemvalue="Application.SteramEx1" />
       <item itemvalue="Application.Ex01" />
+      <item itemvalue="Application.DuckMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuckMain" />
         <item itemvalue="Application.Ex01" />
         <item itemvalue="Application.SteramEx1" />
         <item itemvalue="Application.EnumEx" />
         <item itemvalue="Application.StringEx2" />
-        <item itemvalue="Application.StringEx" />
       </list>
     </recent_temporary>
   </component>
@@ -230,18 +316,18 @@
       <workItem from="1537610450848" duration="4160000" />
       <workItem from="1537620977087" duration="2901000" />
       <workItem from="1537680486094" duration="1585000" />
-      <workItem from="1537687220254" duration="254000" />
+      <workItem from="1537687220254" duration="2990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12290000" />
+    <option name="totallyTimeSpent" value="15026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26639676" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26639676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -250,7 +336,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3078203" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3078203" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -374,8 +460,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ex01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="80" lean-forward="true" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -390,6 +476,89 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2280">
           <caret line="177" column="22" selection-start-line="177" selection-start-column="22" selection-end-line="177" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patternIntro/Flyable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patternIntro/FlyNoWay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patternIntro/FlyWithWings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patternIntro/ToyDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#58#59#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patternIntro/FlyRocketPowered.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patternIntro/MallardDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#67#68#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#99#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patternIntro/DuckMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patternIntro/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#53#54#0" expanded="true" />
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
