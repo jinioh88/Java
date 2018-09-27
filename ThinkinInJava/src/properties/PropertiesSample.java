@@ -19,7 +19,7 @@ public class PropertiesSample {
             prop.store(writer,"Sample");
             writer.close();
 
-            
+
         }catch(Exception e) {
             e.printStackTrace();
         }
