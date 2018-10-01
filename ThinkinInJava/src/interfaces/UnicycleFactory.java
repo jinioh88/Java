@@ -1,8 +1,8 @@
 package interfaces;
 
-public class BicycleFactory implements CycleFactory {
+public class UnicycleFactory implements CycleFactory {
     @Override
     public Cycle getCycle() {
-        return new Bicycle();
+        return new Unicycle();
     }
 }

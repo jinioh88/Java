@@ -1,8 +1,8 @@
 package interfaces;
 
-public class Unicycle implements Cycle {
+public class Bicycle implements Cycle {
     @Override
     public void ride() {
-        System.out.println("Unicycle!!!");
+        System.out.println("Bycycle!!!");
     }
 }
