@@ -84,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mocha.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Mocha.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/decorator/Mocha.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -118,7 +118,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoffeeShop.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CoffeeShop.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/decorator/CoffeeShop.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -279,12 +279,12 @@
       <updated>1537878681055</updated>
       <workItem from="1537878685952" duration="4611000" />
       <workItem from="1537922317437" duration="30000" />
-      <workItem from="1538021307683" duration="2659000" />
+      <workItem from="1538021307683" duration="2907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7300000" />
+    <option name="totallyTimeSpent" value="7548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="777" extended-state="6" />
@@ -299,7 +299,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="5" />
@@ -499,13 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorator/CoffeeShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/decorator/Mocha.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -518,6 +511,13 @@
             <element signature="e#308#309#0" expanded="true" />
             <element signature="e#351#352#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/CoffeeShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
         </state>
       </provider>
     </entry>
