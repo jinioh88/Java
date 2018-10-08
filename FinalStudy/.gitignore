@@ -4,8 +4,9 @@
 /.classpath
 /.project
 /.idea
+/.out
 *.iml
 .DS_Store
 .idea
 .xml
-.class
+.out
