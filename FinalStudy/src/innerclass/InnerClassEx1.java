@@ -18,6 +18,21 @@ public class InnerClassEx1 {
         InnerClass innerClass1 = ex.new InnerClass();
         innerClass.printInnerInfo();
         innerClass1.printInnerInfo();
+
+        StaticInnerClass staticInnerClass = new InnerClassEx1.StaticInnerClass();
+        staticInnerClass.printHash();
+    }
+
+    static class  StaticInnerClass {
+        private int shashCode;
+
+        public StaticInnerClass() {
+            this.shashCode = System.identityHashCode(this);
+        }
+
+        public void printHash() {
+            System.out.println(this.shashCode);
+        }
     }
 
     class InnerClass {
