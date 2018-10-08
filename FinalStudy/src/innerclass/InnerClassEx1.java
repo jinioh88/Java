@@ -11,8 +11,17 @@ public class InnerClassEx1 {
         isOuter = true;
     }
 
+    public Object getName() {
+        return new Object() {
+            public String toString() {
+                return this.getClass().getName();
+            }
+        };
+    }
+
     public static void main(String[] args) {
         InnerClassEx1 ex = new InnerClassEx1();
+        ex.getName();
         InnerClassEx1.InnerClass innerEx = ex.new InnerClass();
         InnerClassEx1.InnerClass innerClass = ex.new InnerClass();
         InnerClass innerClass1 = ex.new InnerClass();
