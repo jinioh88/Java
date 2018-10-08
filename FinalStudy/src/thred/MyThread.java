@@ -1,27 +1,30 @@
 package thred;
 
 public class MyThread implements Runnable {
+    private Object obj = new Object();
     @Override
     public void run() {
-        while(true) {
-            System.out.println("is running...");
-            try{
+        while(!Thread.interrupted()) {
+            synchronized (obj){
+
+                System.out.println("is running...");
+            }
+            try {
                 Thread.sleep(1000);
-            } catch(InterruptedException e) {
+            } catch (InterruptedException e) {
                 e.printStackTrace();
+                break;
             }
         }
+        System.out.println("terminated....");
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         Thread t = new Thread(new MyThread());
         t.start();
-        System.out.println("end!");
 
-        String thisThName = Thread.currentThread().getName();
-        System.out.println(thisThName);
+        Thread.sleep(50);
 
-        String thisGName = Thread.currentThread().getThreadGroup().getName();
-        System.out.println(thisGName);
+        t.interrupt();
     }
 }
